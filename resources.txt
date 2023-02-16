@@ -1,0 +1,12 @@
+SQL
+https://www.w3schools.com/sql/default.asp
+https://sql-academy.org/ru/guide
+
+
+Python
+https://stepik.org/course/67/promo#toc
+https://leetcode.com/
+
+ML
+https://www.coursera.org/specializations/machine-learning-introduction
+https://www.kaggle.com/competitions
